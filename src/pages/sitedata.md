@@ -1,26 +1,26 @@
 ---
 templateKey: site-data
 published: true
-name: Client Name
-jobTitle: Client's Job Title
-location: City, State, Country
+name: Franciscus Diaba
+jobTitle: Senior Vice President & Assistant General Counsel
+location: New York, NY
 profileImage:
-  src: ""
-  alt: Client's headshot
-siteUrl: https://url.com
+  src: /img/franciscus-diaba-vice-president-assistant-general-counsel.jpg
+  alt: Franciscus Diaba Vice President & Assistant General Counsel
+siteUrl: https://franciscusdiaba.me/
 socialLinks:
   twitter:
     url: https://www.x.com
     label: Visit
-    show: true
+    show: false
   facebook:
     url: https://www.facebook.com
     label: Visit
-    show: true
+    show: false
   linkedin:
     url: https://www.linkedin.com
     label: Visit
-    show: true
+    show: false
   pinterest:
     url: null
     label: Visit
