@@ -1,7 +1,7 @@
 ---
 missionStatement: "{{mission_statement}}"
 templateKey: index-page
-pageTitle: Client's Name
+pageTitle: Franciscus Diaba
 pageContent: Since joining the web-based **restaurant review** company in its
   startup phase, **Chandler Villacruz** has spearheaded *market research*
   activities that have allowed the firm to build *effective advertising*
@@ -16,8 +16,11 @@ featuredImage:
   alt: Hero Image for home page
   caption: null
 header: Client Name
-metaDescription: First paragraph of Clients Bio. That would meet the character
-  count range, and have the clients name in the Meta Data
+metaDescription: >-
+  Over the course of his career as an in-house attorney, Franciscus Ladejola
+  Diaba has focused on
+
+  technology, commercial transactions, product development and intellectual property law.
 published: true
 profileButton:
   link: /profile
@@ -32,4 +35,4 @@ shortBiography: Since joining the web-based restaurant review company in its
 schemaType: WebPage
 showRecentPosts: false
 ---
-First paragraph of clients bio. And feel free to link clients name out to different **[blog sites](google.com)**
+Over the course of his career as an in-house attorney, Franciscus Ladejola Diaba has focused on technology, commercial transactions, product development and intellectual property law. He is currently Senior Vice President & Assistant General Counsel at the National Basketball Association (“NBA”). Prior to joining the NBA, as an attorney, he was as an attorney with Johnson 2 & Johnson for several years. Franciscus Diaba also has experience as an engineer with General Motors.
