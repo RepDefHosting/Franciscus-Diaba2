@@ -3,9 +3,10 @@ templateKey: blog-archive
 pageSlug: /blog
 pageTitle: Blog
 subheader: null
-metaDescription: A blog is a type of website or online platform where
-  individuals or groups regularly post content, typically in the form of
-  articles, diary entries, or commentary on various topics.
+metaDescription: Mr. Diaba studied mechanical engineering at the State
+  University of New York at Buffalo, where he was a dean’s list student. He went
+  on to complete the his juris doctor degree at the University of New
+  Hampshire’s Franklin Pierce School of Law.
 published: true
 schemaType: WebPage
 header: Blog
