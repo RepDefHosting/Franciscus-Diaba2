@@ -10,7 +10,6 @@ learnMoreButton:
   link: /about/
   label: Read More
 subheader: Client's Subtitle
-pageSlug: /
 featuredImage:
   src: /img/businessbuildings.jpg
   alt: Hero Image for home page
@@ -22,9 +21,6 @@ metaDescription: >-
 
   technology, commercial transactions, product development and intellectual property law.
 published: true
-profileButton:
-  link: /profile
-  label: About
 blogButton:
   link: /blog
   label: Blog
@@ -32,7 +28,11 @@ shortBiography: Since joining the web-based restaurant review company in its
   startup phase, Chandler Villacruz has spearheaded market research activities
   that have allowed the firm to build effective advertising campaigns and
   achieve sound business growth.
+pageSlug: /
 schemaType: WebPage
+profileButton:
+  link: /profile
+  label: About
 showRecentPosts: false
 ---
-Over the course of his career as an in-house attorney, Franciscus Ladejola Diaba has focused on technology, commercial transactions, product development and intellectual property law. He is currently Senior Vice President & Assistant General Counsel at the National Basketball Association (“NBA”). Prior to joining the NBA, as an attorney, he was as an attorney with Johnson 2 & Johnson for several years. Franciscus Diaba also has experience as an engineer with General Motors.
+Over the course of his career as an in-house attorney, Franciscus Ladejola Diaba has focused on technology, commercial transactions, product development and intellectual property law. He is currently Senior Vice President & Assistant General Counsel at the National Basketball Association (“NBA”). Prior to joining the NBA, as an attorney, he was as an attorney with Johnson & Johnson for several years. Franciscus Diaba also has experience as an engineer with General Motors.
