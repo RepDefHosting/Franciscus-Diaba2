@@ -6,13 +6,10 @@ metaDescription: Mr. Diaba studied mechanical engineering at the State
   University of New York at Buffalo, where he was a dean’s list student. He went
   on to complete the his juris doctor degree at the University of New
   Hampshire’s Franklin Pierce School of Law.
-published: true
 schemaType: ProfilePage
-header: Franciscus Diaba
-featuredImage:
-  src: /img/businessbuildings.jpg
-  alt: Hero Image
-  caption: null
+blogButton:
+  label: Blog
+  link: /blog
 connectWithMe: New York
 pageContent: >-
   # Heading line here
@@ -54,15 +51,16 @@ pageContent: >-
 
   * **Mr. Villacruz** obtained a bachelor of business administration in marketing from the Mays Business School at Texas A&M University, where he pursued the Advertising Strategy career track. Subsequently, he earned a master of science in marketing at the University of Southern California.
 subheader: null
-blogButton:
-  label: Blog
-  link: /blog
+published: true
+header: Franciscus Diaba
+featuredImage:
+  src: /img/businessbuildings.jpg
+  alt: Hero Image
+  caption: null
 discoverConnectExplore: NY
 longBiography_MD: |
   {{long_biography}}
 ---
-Over the course of his career as an in-house attorney, Franciscus Ladejola Diaba has focused on technology, commercial transactions, product development and intellectual property law. He is currently Senior Vice President & Assistant General Counsel at the National Basketball Association (“NBA”). Prior to joining the NBA, as an attorney, he was as an attorney with Johnson 2 & Johnson for several years. Franciscus Diaba also has experience as an engineer with General Motors. 
-
-
+Over the course of his career as an in-house attorney, Franciscus Ladejola Diaba has focused on technology, commercial transactions, product development and intellectual property law. He is currently Senior Vice President & Assistant General Counsel at the National Basketball Association (“NBA”). Prior to joining the NBA, as an attorney, he was as an attorney with Johnson & Johnson for several years. Franciscus Diaba also has experience as an engineer with General Motors. 
 
 Mr. Diaba studied mechanical engineering at the State University of New York at Buffalo, where he was a dean’s list student. He went on to complete the his juris doctor degree at the University of New Hampshire’s Franklin Pierce School of Law. During his time at the school, he served as the president of the Black Law Students Association and was selected as the student commencement speaker. Mr. Diaba is also a graduate of the Program on Negotiation at Harvard Law School.
